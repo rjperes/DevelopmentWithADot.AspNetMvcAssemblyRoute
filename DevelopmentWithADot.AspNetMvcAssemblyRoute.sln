@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.AspNetMvcAssemblyRoute.Tests", "DevelopmentWithADot.AspNetMvcAssemblyRoute.Tests\DevelopmentWithADot.AspNetMvcAssemblyRoute.Tests.csproj", "{0866C6D0-6A0B-498D-91B3-23DD3FF3599E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.AspNetMvcAssemblyRoute.Lib", "DevelopmentWithADot.AspNetMvcAssemblyRoute.Lib\DevelopmentWithADot.AspNetMvcAssemblyRoute.Lib.csproj", "{ACDD6292-93B1-496D-973E-FA9EAEC1DD00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevelopmentWithADot.AspNetMvcAssemblyRoute", "DevelopmentWithADot.AspNetMvcAssemblyRoute\DevelopmentWithADot.AspNetMvcAssemblyRoute.csproj", "{15465CAE-52A0-4F2E-A0B9-0A8256D85FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0866C6D0-6A0B-498D-91B3-23DD3FF3599E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0866C6D0-6A0B-498D-91B3-23DD3FF3599E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0866C6D0-6A0B-498D-91B3-23DD3FF3599E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0866C6D0-6A0B-498D-91B3-23DD3FF3599E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACDD6292-93B1-496D-973E-FA9EAEC1DD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDD6292-93B1-496D-973E-FA9EAEC1DD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDD6292-93B1-496D-973E-FA9EAEC1DD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDD6292-93B1-496D-973E-FA9EAEC1DD00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15465CAE-52A0-4F2E-A0B9-0A8256D85FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15465CAE-52A0-4F2E-A0B9-0A8256D85FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15465CAE-52A0-4F2E-A0B9-0A8256D85FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15465CAE-52A0-4F2E-A0B9-0A8256D85FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
